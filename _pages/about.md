@@ -10,7 +10,7 @@ redirect_from:
 <meta name="google-site-verification" content="u_mNr2QwGTy9cj_pifv3uxncaZbClR5rk7RVQfACU64" />
 <h1> About </h1>
 
-I completed my PhD from the Department of Mathematics, Indian Institute of Technology Madras, under the supervision of Dr. Narayanan N. My research interest lies in algebraic combinatorics, topological combinatorics, and graph algorithms. 
+I completed my PhD from the Department of Mathematics, Indian Institute of Technology Bombay, under the supervision of Dr. Narayanan N. My research interest lies in algebraic combinatorics, topological combinatorics, and graph algorithms. 
 
 I am currently a Postdoctoral fellow at Chennai Mathematical Institute, India.
 
