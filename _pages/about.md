@@ -122,10 +122,6 @@ I am presently a Research Associate at the Indian Institute of Technology Madras
 <h2 id="education">Education</h2>
 
 
-<p><img style="float: left; margin:5px 5px" src="/images/mu.png" width="100" height="100" /></p>
-<h3 id="mu">Mumbai University</h3>
-<p style="line-height:1.0"> <font size="2"> July 2016 - May 2018<br /><strong>CGPA: 9.13 / 10.00</strong><br />
- M.Sc. Mathematics.<br /><br /></font></p>
 
 <p><img style="float: left; margin:10px 5px" src="/images/ruia.png" width="100" height="100" /></p>
 <h3 id="ruia">R. N. Ruia Autonomous College</h3>
