@@ -10,9 +10,9 @@ redirect_from:
 <meta name="google-site-verification" content="u_mNr2QwGTy9cj_pifv3uxncaZbClR5rk7RVQfACU64" />
 <h1> About </h1>
 
-I completed my PhD from the Department of Mathematics, Indian Institute of Technology Bombay, under the supervision of Dr. Narayanan N. My research interest lies in algebraic combinatorics, topological combinatorics, and graph algorithms. 
+I completed my doctoral studies in Mathematics at the Indian Institute of Technology Bombay under the mentorship of <a href="https://www.math.iitb.ac.in/~sgurjar/" target="_blank" rel="noopener noreferrer">Prof. Sudarshan Gurjar</a> and <a href="https://math.iitm.ac.in/rameshk" target="_blank" rel="noopener noreferrer">Prof. Ramesh Kasilingam</a>. My research focuses on geometric topology. 
 
-I am currently a Postdoctoral fellow at Chennai Mathematical Institute, India.
+I am presently a Research Associate at the Indian Institute of Technology Madras, India.
 
 
 <head>

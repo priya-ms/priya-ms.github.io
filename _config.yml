@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sagar Sawant"
+title                    : "Priyanka Magar-Sawant"
 title_separator          : "-"
-name                     : &name "Sagar Sawant"
+name                     : &name "Priyanka Magar-Sawant"
 description              : &description "None"
-url                      : https://s-s-sawant.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://priya-ms.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,33 +21,33 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Sagar Sawant"
-  pronouns         : "he/him"  
+  avatar           : "PriyaPhotoc1.jpg"
+  name             : "Priyanka Magar-Sawant"
+  pronouns         : "She/her"  
   bio              : "Ph.D. (Mathematics), <br />
-                      - Algebraic Combinatorics <br>
-                      - Topological Combinatorics<br>
-                      - Graph Algorithms"
+                      - Geometric Topology" 
+                      # - Topological Combinatorics<br>
+                      # - Graph Algorithms"
   location         : "Chennai"
-  employer         : "Institute of Mathematical Sciences"
+  employer         : "Indian Institute of Technology Madras"
   uri              : # URL
-  email            : "sagarsawant.math@gmail.com" 
+  email            : "priyanka.ms.math@gmail.com" 
 
   # Academic websites
-  arxiv            : "http://arxiv.org/a/sawant_s_1"
-  googlescholar    : "https://scholar.google.com/citations?user=oqSegFMAAAAJ&hl=en"
+  arxiv            : "https://arxiv.org/a/magarsawant_p_1.html"
+  # googlescholar    : "https://scholar.google.com/citations?user=oqSegFMAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-0289-1551"
+  # orcid            : "https://orcid.org/0000-0002-0289-1551"
   semantic         : # URL
-  pubmed           : #
-  researchgate     : "https://www.researchgate.net/profile/Sagar-Sawant-2"
-  mathscinet       : "https://mathscinet.ams.org/mathscinet/author?authorId=1623821"
+  pubmed           : # 
+  # researchgate     : "https://www.researchgate.net/profile/Sagar-Sawant-2"
+  # mathscinet       : "https://mathscinet.ams.org/mathscinet/author?authorId=1623821"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "s-s-sawant"
+  # github           : "s-s-sawant"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
