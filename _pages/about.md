@@ -121,10 +121,6 @@ I am presently a Research Associate at the Indian Institute of Technology Madras
 
 <h2 id="education">Education</h2>
 
-<p><img style="float: left; margin:20px 5px" src="/images/iitmadras.png" width="100" height="100" /></p>
-<h3 id="iitmadras">Indian Institute of Technology Madras</h3>
-<p style="line-height:1.0"> <font size="2"> Jan 2019 - Aug 2024<br /><strong>CGPA: 9.47 / 10.00</strong><br />
- Ph.D. Mathematics <br /> <br /> </font></p>
 
 <p><img style="float: left; margin:5px 5px" src="/images/mu.png" width="100" height="100" /></p>
 <h3 id="mu">Mumbai University</h3>
