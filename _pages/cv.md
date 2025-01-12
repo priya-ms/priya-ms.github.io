@@ -11,4 +11,4 @@ redirect_from:
 
 <embed width = "820" height = "650" src="https://priya-ms.github.io/files/Priyanka_Magar-Sawant_CV.pdf" type="application/pdf" />
 
-you can [download pdf](https://priya-ms.github.io/files/Priyanka_Magar-Sawant_CV.pdf) here.
+You can [download pdf](https://priya-ms.github.io/files/Priyanka_Magar-Sawant_CV.pdf) here.

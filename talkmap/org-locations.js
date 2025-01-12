@@ -1,57 +1,52 @@
 var addressPoints = [
   [
-    "Coimbatore, India.",
-    11.0018115,
-    76.9628425
+    "Powai, India",
+    19.1187195,
+    72.9073476
   ],
   [
-    "Chennai, India",
-    13.0836939,
-    80.270186
+    "Erandwane, Pune, India",
+    18.5087486,
+    73.8318432
   ],
   [
-    "Nainital, India.",
-    29.29499495,
-    79.41625112686134
+    "Kolkata, India",
+    22.5726459,
+    88.3638953
   ],
   [
-    "Paderborn, Germany.",
-    51.7177044,
-    8.752653
+    "Siruseri, Chennai, India",
+    12.80128255,
+    80.19918707207373
   ],
   [
-    "Adyar, India",
-    13.00645,
-    80.2577791
+    "Bangalore, India",
+    12.98815675,
+    77.62260003796
   ],
   [
-    "Champs-Sur-Marne, France",
-    48.8526892,
-    2.6027219
+    "Pune, India",
+    18.5213738,
+    73.8545071
   ],
   [
-    "Auroville, India.",
-    12.0073927,
-    79.8099471
+    "Baner, Pune, India",
+    18.5642431,
+    73.7768573
   ],
   [
-    "Matunga, India",
-    19.0274356,
-    72.8501467
+    "M\u00fcnster, Germany",
+    51.9625101,
+    7.6251879
   ],
   [
-    "Paris, France",
-    48.8588897,
-    2.3200410217200766
+    "Nafpaktos, Greece",
+    38.3926119,
+    21.8287498
   ],
   [
-    "Kalavakkam, Tamilnadu, India.",
-    12.7453188,
-    80.1950454
-  ],
-  [
-    "Mumbai, India",
-    19.08157715,
-    72.88662753964906
+    "Thiruporur, India",
+    12.7258558,
+    80.189518
   ]
 ];

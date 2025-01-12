@@ -9,7 +9,6 @@
   height: $masthead-height;
   top: 0;
   width: 100%;
-
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -52,8 +51,8 @@
   white-space: nowrap;
 
   &--lg {
-    padding-left:2em;
-    padding-right: 4.5em;
+    padding-left:0.5em;
+    padding-right: 27em;
     font-weight: 700;
   }
 }

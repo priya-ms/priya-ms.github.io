@@ -8,14 +8,22 @@ redirect_from:
 ---
 
 <meta name="google-site-verification" content="u_mNr2QwGTy9cj_pifv3uxncaZbClR5rk7RVQfACU64" />
-<h1> About </h1>
+<br/>
+<h1> Welcome! </h1>
 
-I completed my doctoral studies in Mathematics at the Indian Institute of Technology Bombay under the mentorship of <a href="https://www.math.iitb.ac.in/~sgurjar/" target="_blank" rel="noopener noreferrer">Prof. Sudarshan Gurjar</a> and <a href="https://math.iitm.ac.in/rameshk" target="_blank" rel="noopener noreferrer">Prof. Ramesh Kasilingam</a>. My research focuses on geometric topology. 
+I am currently a Research Associate in the <a href="https://math.iitm.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a> at <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener noreferrer">IIT Madras</a>, India. I defended my Ph.D. thesis in geometric topology from the <a href="https://www.math.iitb.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a> at <a href="https://www.iitb.ac.in/" target="_blank" rel="noopener noreferrer">IIT Bombay</a> under the supervision of <a href="https://www.math.iitb.ac.in/~sgurjar/" target="_blank" rel="noopener noreferrer">Prof. Sudarshan Gurjar</a> and <a href="https://math.iitm.ac.in/rameshk" target="_blank" rel="noopener noreferrer">Prof. Ramesh Kasilingam</a>.
 
-I am presently a Research Associate at the Indian Institute of Technology Madras, India.
+My research interests include smoothing theory and stable category theory. My doctoral research focused on the classification of smooth structures on higher-dimensional manifolds, particularly their classification up to isotopy in dimensions 8 to 10. Here is the link to my [Ph.D. thesis](https://priya-ms.github.io/files/Thesis_Priyanka_Prinsta.pdf).
 
 
-<head>
+
+
+
+
+
+
+
+<!-- <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Institute Info</title>
@@ -117,7 +125,7 @@ I am presently a Research Associate at the Indian Institute of Technology Madras
 <h3 id="fudan-university">Institute of Mathematical Sciences</h3>
 <p style="line-height:1.0"> <font size="2"> Aug 2024 - October 2024<br /><strong> Visiting Research Fellow  </strong><br /> Host: Prof. Amritanshu Prasad<br /> </font></p> -->
 
-<br>
+<!-- <br>
 
 <h2 id="education">Education</h2>
 
@@ -127,7 +135,7 @@ I am presently a Research Associate at the Indian Institute of Technology Madras
 <h3 id="ruia">R. N. Ruia Autonomous College</h3>
 <p style="line-height:1.0"> <font size="2"> July 2013 - May 2016<br /> <strong>CGPA: 6.78 / 7.00</strong><br />
  B.Sc. Mathematics.<br />  </font></p>
-
+ -->
 
 
 
