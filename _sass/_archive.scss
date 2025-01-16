@@ -44,7 +44,6 @@
   margin-bottom: 0em;
   font-family: $sans-serif-narrow;
   font-size: 14pt;
-  white-space: nowrap;
 
   a + a {
     opacity: 0.5;
@@ -66,7 +65,6 @@
   margin-top: 0.3em;
   border-bottom: none;
   font-size: $type-size-5;
-  white-space: nowrap;
 }
 
 .archive__item-excerpt {
@@ -112,15 +110,15 @@
 
 .list__item {
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width-narrow;
+    // padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    // padding-right: $right-sidebar-width;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    // padding-right: $right-sidebar-width-wide;
   }
 
   .page__meta {
