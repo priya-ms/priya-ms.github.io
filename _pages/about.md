@@ -9,11 +9,11 @@ redirect_from:
 
 <meta name="google-site-verification" content="u_mNr2QwGTy9cj_pifv3uxncaZbClR5rk7RVQfACU64" />
 <br/>
-<h1> Welcome! </h1>
+<h2> Welcome to my academic homepage! </h2>
 
-I am currently a Research Associate in the <a href="https://math.iitm.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a> at <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener noreferrer">IIT Madras</a>, India. I defended my Ph.D. thesis in geometric topology from the <a href="https://www.math.iitb.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a> at <a href="https://www.iitb.ac.in/" target="_blank" rel="noopener noreferrer">IIT Bombay</a> under the supervision of <a href="https://www.math.iitb.ac.in/~sgurjar/" target="_blank" rel="noopener noreferrer">Prof. Sudarshan Gurjar</a> and <a href="https://math.iitm.ac.in/rameshk" target="_blank" rel="noopener noreferrer">Prof. Ramesh Kasilingam</a>.
+ I completed my Ph.D. in Mathematics from the <a href="https://www.math.iitb.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a>, <a href="https://www.iitb.ac.in/" target="_blank" rel="noopener noreferrer">IIT Bombay</a>, in 2024 under the supervision of <a href="https://www.math.iitb.ac.in/~sgurjar/" target="_blank" rel="noopener noreferrer">Prof. Sudarshan Gurjar</a> and <a href="https://math.iitm.ac.in/rameshk" target="_blank" rel="noopener noreferrer">Prof. Ramesh Kasilingam</a>. I am currently a Research Associate in the <a href="https://math.iitm.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a>, <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener noreferrer">IIT Madras</a>, India.
 
-My research interests include smoothing theory and stable category theory. My doctoral research focused on the classification of smooth structures on higher-dimensional manifolds, particularly their classification up to isotopy in dimensions 8 to 10. I am currently studying the stable homotopy category, with a focus on the problem of homotopy equivalence in certain categories.
+ My research focuses on geometric topology, particularly the classification of smooth structures on higher-dimensional manifolds. During my doctoral studies, I investigated the classification of smooth structures up to concordance in dimensions 8 to 10. Currently, I am exploring the stable homotopy category, with a particular emphasis on understanding homotopy equivalence in specific categories.
 
 <!-- Here is the link to my [Ph.D. thesis](https://priya-ms.github.io/files/Thesis_Priyanka_Prinsta.pdf). -->
 
