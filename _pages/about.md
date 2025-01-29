@@ -13,7 +13,9 @@ redirect_from:
 
 I am currently a Research Associate in the <a href="https://math.iitm.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a> at <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener noreferrer">IIT Madras</a>, India. I defended my Ph.D. thesis in geometric topology from the <a href="https://www.math.iitb.ac.in/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a> at <a href="https://www.iitb.ac.in/" target="_blank" rel="noopener noreferrer">IIT Bombay</a> under the supervision of <a href="https://www.math.iitb.ac.in/~sgurjar/" target="_blank" rel="noopener noreferrer">Prof. Sudarshan Gurjar</a> and <a href="https://math.iitm.ac.in/rameshk" target="_blank" rel="noopener noreferrer">Prof. Ramesh Kasilingam</a>.
 
-My research interests include smoothing theory and stable category theory. My doctoral research focused on the classification of smooth structures on higher-dimensional manifolds, particularly their classification up to isotopy in dimensions 8 to 10. Here is the link to my [Ph.D. thesis](https://priya-ms.github.io/files/Thesis_Priyanka_Prinsta.pdf).
+My research interests include smoothing theory and stable category theory. My doctoral research focused on the classification of smooth structures on higher-dimensional manifolds, particularly their classification up to isotopy in dimensions 8 to 10. I am currently studying the stable homotopy category, with a focus on the problem of homotopy equivalence in certain categories.
+
+<!-- Here is the link to my [Ph.D. thesis](https://priya-ms.github.io/files/Thesis_Priyanka_Prinsta.pdf). -->
 
 
 
